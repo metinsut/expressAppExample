@@ -1,0 +1,21 @@
+{
+  "name": "movie_api",
+  "version": "1.0.0",
+  "description": "rest api examples with movie project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "METİN",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6",
+    "nodemon": "^1.15.1"
+  }
+}
